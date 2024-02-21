@@ -7,7 +7,7 @@ Event Managment website
 * Step 3: Create a branch
 
 ### FRONTEND
-* For frontend instructions view this [Frontend](https://github.com/marshvin/Event-Management/new/main/FRONTEND)
+* For frontend instructions view this [Frontend](https://github.com/marshvin/Event-Management/tree/main/FRONTEND)
 ### BACKEND
 * For Backend Instructions view this [Backend]()
 
