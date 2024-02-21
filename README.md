@@ -1,9 +1,9 @@
 # Eventify
 Event Managment website
-
+#FRONTEND
 ### Step 1: Fork the repository
 
-# Step 2: Clone the repository
+### Step 2: Clone the repository
 git clone
 
 ### Step 3: Initialize a new Node.js project
