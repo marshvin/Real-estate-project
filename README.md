@@ -1,6 +1,6 @@
-# Eventify
+# Real estate website
 
-Event Managment website
+Real Estate website
 
 * Step 1: Fork the repository
 * Step 2: Clone the repository
